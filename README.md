@@ -49,17 +49,7 @@ See your self graduated in topics you always wanted.
 
 ### Our First Offering: Basic Cloud Application Development
 
-<!--
-Cloud-native is an approach to building and running applications that exploits the advantages of
-the cloud computing delivery model. Cloud-native is about howapplications are created and deployed, 
-not where. It implies that the apps live in the public cloud, as opposed to an on-premises datacenter.
--->
-
-Cloud Native development allows IT and software to move faster, keep up with the competition, and ultimately deliver better services to customers. With this motive, we bring to you the first offering on “Basic Cloud Application Development”.
-<br>
-This course is targeted for developers who have a basic understanding of JAVA and would help them to build a complete application involving end to end concepts. The Basic Cloud Application Development curriculum will include the essential steps to learn, develop and deploy a JAVA based business application on SCP Cloud Foundry. Starting with the key elements, setting up your working environment, to using Cloud Foundry for deployment, creating data models and understanding HANA CDS, OData services, working with Fiori templates and finally putting them all together with CAP (Cloud Application Programming) model of development - you will learn all of this.
-<br>
-Leveraging available learning references with additional hands on/boot-camp experiences, including guidance from experts to work in groups on assignments spread over a period of couple of months, will enable you to learn and develop the skills not only for your current day-to-day work but also for your future and help you to stay relevant in the context of Intelligent Enterprise.
+Machine learning is the science of getting computers to act without being explicitly programmed. In the past decade, machine learning has given us self-driving cars, practical speech recognition, effective web search, and a vastly improved understanding of the human genome. Machine learning is so pervasive today that you probably use it dozens of times a day without knowing it. Many researchers also think it is the best way to make progress towards human-level AI. In this class, you will learn about the most effective machine learning techniques, and gain practice implementing them and getting them to work for yourself. More importantly, you'll learn about not only the theoretical underpinnings of learning, but also gain the practical know-how needed to quickly and powerfully apply these techniques to new problems. Finally, you'll learn about some of Silicon Valley's best practices in innovation as it pertains to machine learning and AI. This course provides a broad introduction to machine learning, datamining, and statistical pattern recognition. Topics include: (i) Supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks). (ii) Unsupervised learning (clustering, dimensionality reduction, recommender systems, deep learning). (iii) Best practices in machine learning (bias/variance theory; innovation process in machine learning and AI). The course will also draw from numerous case studies and applications, so that you'll also learn how to apply learning algorithms to building smart robots (perception, control), text understanding (web search, anti-spam), computer vision, medical informatics, audio, database mining, and other areas.
 
 
 |[<img src="/Images/B.png"  width="100px" height="100px" style="border-radius:50%;">](https://github.wdf.sap.corp/tech-know-school/tech-know-school-V1/tree/master/modules)|    
