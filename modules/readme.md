@@ -54,9 +54,9 @@ It is commonly used for:<br>
 
 **Machine Learning** is an application of artificial intelligence (AI) that provides systems the ability to automatically learn and improve from experience without being explicitly programmed.
 
-
+<!--
 For any questions in Machine learning get in contact: [Sundeep Gullapudi](sundeep.gullapudi@sap.com) [Poshak Jaiswal](poshak.jaiswal@sap.com) [Harshit Joshi](harshit.joshi@sap.com) [Raja](n.v.siva.sai.krishna.raja.ram.kankipati@sap.com)
-
+-->
 
 [link_python]: https://github.wdf.sap.corp/tech-know-school/Machine-Learning/tree/master/modules/2.%20Python%20Intro%20and%20Math%20Foundation
 [link_eda]: https://github.wdf.sap.corp/tech-know-school/Machine-Learning/tree/master/modules/3.%20EDA%20and%20Visualization
