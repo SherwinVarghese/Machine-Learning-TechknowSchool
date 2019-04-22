@@ -36,7 +36,7 @@
 
 | [<img src="/Images/python_programming.png"  width="250px" height="220px" style="border-radius:50%;">][link_python] |[<img src="/Images/exploratory_analysis.png"   width="220px" height="220px" style="border-radius:50%;"/>][link_eda]  | [<img src="/Images/machine_learning.jpg"   width="220px" height="220px" />][link_ml] | 
 | :-: | :-: | :-: |
-| **[Python Programming](link_python)** | **[EDA](Exploratory Data Analysis)**  | **[Machine Learning](Machine Learning)** | 
+| **[Python Programming](https://github.wdf.sap.corp/tech-know-school/Machine-Learning/tree/master/modules/2.%20Python%20Intro%20and%20Math%20Foundation)** | **[EDA](https://github.wdf.sap.corp/tech-know-school/Machine-Learning/tree/master/modules/3.%20EDA%20and%20Visualization)**  | **[Machine Learning](https://github.wdf.sap.corp/tech-know-school/Machine-Learning/tree/master/modules/4.%20ML%20Algorithms)** | 
 
 
 **Python** is a high-level, interpreted, interactive and object-oriented scripting language.
@@ -55,12 +55,8 @@ It is commonly used for:<br>
 **Machine Learning** is an application of artificial intelligence (AI) that provides systems the ability to automatically learn and improve from experience without being explicitly programmed.
 
 
-<!--
-For any questions in java get in contact: [Panneer Selvam](panneer.selvam@sap.com) <br>
-For any questions in CF and CAP get in contact: [Sundaresan Krishnamurthy](sundaresan.krishnamurthy@sap.com) [Apoorv Bhargava](apoorv.bhargava@sap.com)<br>
-For any questions in Fiori get in contact: [Poshak Jaiswal](poshak.jaiswal@sap.com) 
+For any questions in Machine learning get in contact: [Sundeep Gullapudi](sundeep.gullapudi@sap.com) [Poshak Jaiswal](poshak.jaiswal@sap.com) [Harshit Joshi](harshit.joshi@sap.com) [Raja](n.v.siva.sai.krishna.raja.ram.kankipati@sap.com)
 
--->
 
 [link_python]: https://github.wdf.sap.corp/tech-know-school/Machine-Learning/tree/master/modules/2.%20Python%20Intro%20and%20Math%20Foundation
 [link_eda]: https://github.wdf.sap.corp/tech-know-school/Machine-Learning/tree/master/modules/3.%20EDA%20and%20Visualization
