@@ -36,7 +36,7 @@
 
 | [<img src="/Images/python_programming.png"  width="250px" height="220px" style="border-radius:50%;">][link_python] |[<img src="/Images/exploratory_analysis.png"   width="220px" height="220px" style="border-radius:50%;"/>][link_eda]  | [<img src="/Images/machine_learning.jpg"   width="220px" height="220px" />][link_ml] | 
 | :-: | :-: | :-: |
-| **[link_python](Python Programming)** | **[EDA](Exploratory Data Analysis)**  | **[Machine Learning](Machine Learning)** | 
+| **[Python Programming](link_python)** | **[EDA](Exploratory Data Analysis)**  | **[Machine Learning](Machine Learning)** | 
 
 
 **Python** is a high-level, interpreted, interactive and object-oriented scripting language.
