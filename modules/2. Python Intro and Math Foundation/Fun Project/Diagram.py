@@ -16,7 +16,7 @@ class Diagram(object):
         #####################################
         #                                   #
         #                                   #
-        #          X - MAS Celebrations     #
+        #          Tech Know School         #
         #                                   #
         #                                   #
         #####################################
