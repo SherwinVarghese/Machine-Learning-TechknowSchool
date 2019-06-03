@@ -40,7 +40,7 @@ def metadata_transformer(metadata):
     return tuple(metadata) + tuple(additions)
 
 # path in route should match deployed model name
-@app.route('/mnist', methods=['POST'])
+@app.route('/poshak', methods=['POST'])
 def do_inference():
     # get deployed model details
     model_name = request.path[1:]
