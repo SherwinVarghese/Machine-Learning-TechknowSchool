@@ -14,17 +14,17 @@ xmlns="http://www.w3.org/TR/REC-html40">
  <o:DocumentProperties>
   <o:Author>Kankipati, N V Siva Sai Krishna Raja Ram</o:Author>
   <o:LastAuthor>Kankipati, N V Siva Sai Krishna Raja Ram</o:LastAuthor>
-  <o:Revision>2</o:Revision>
+  <o:Revision>3</o:Revision>
   <o:TotalTime>0</o:TotalTime>
   <o:Created>2019-07-22T09:40:00Z</o:Created>
-  <o:LastSaved>2019-07-22T09:40:00Z</o:LastSaved>
+  <o:LastSaved>2019-07-22T09:42:00Z</o:LastSaved>
   <o:Pages>1</o:Pages>
-  <o:Words>6</o:Words>
-  <o:Characters>40</o:Characters>
+  <o:Words>7</o:Words>
+  <o:Characters>41</o:Characters>
   <o:Company>SAP</o:Company>
   <o:Lines>1</o:Lines>
   <o:Paragraphs>1</o:Paragraphs>
-  <o:CharactersWithSpaces>45</o:CharactersWithSpaces>
+  <o:CharactersWithSpaces>47</o:CharactersWithSpaces>
   <o:Version>16.00</o:Version>
  </o:DocumentProperties>
  <o:OfficeDocumentSettings>
@@ -36,8 +36,6 @@ xmlns="http://www.w3.org/TR/REC-html40">
 <!--[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Print</w:View>
-  <w:SpellingState>Clean</w:SpellingState>
-  <w:GrammarState>Clean</w:GrammarState>
   <w:TrackMoves>false</w:TrackMoves>
   <w:TrackFormatting/>
   <w:ValidateAgainstSchemas/>
@@ -52,6 +50,7 @@ xmlns="http://www.w3.org/TR/REC-html40">
    <w:BreakWrappedTables/>
    <w:SplitPgBreakAndParaMark/>
   </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
   <m:mathPr>
    <m:mathFont m:val="Cambria Math"/>
    <m:brkBin m:val="before"/>
@@ -679,6 +678,8 @@ p
 	mso-fareast-theme-font:minor-fareast;}
 p.msonormal0, li.msonormal0, div.msonormal0
 	{mso-style-name:msonormal;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
 	mso-style-unhide:no;
 	mso-margin-top-alt:auto;
 	margin-right:0in;
@@ -734,7 +735,7 @@ div.WordSection1
 
 <div class=WordSection1>
 
-<p class=MsoNormal>Pre-read material for Google Colab and Canvas</p>
+<p class=MsoNormal># Pre-read material for Google Colab and Canvas</p>
 
 </div>
 
