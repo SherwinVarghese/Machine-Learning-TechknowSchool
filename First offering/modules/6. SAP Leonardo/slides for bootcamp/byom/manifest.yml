@@ -1,0 +1,11 @@
+---
+applications:
+- name: poshak_byom
+  memory: 256M
+  disk_quota: 1028M
+  timeout: 60
+  buildpack: python_buildpack
+services:
+- ml
+env:
+  MLF_SERVICE: ml-foundation-trial-beta
