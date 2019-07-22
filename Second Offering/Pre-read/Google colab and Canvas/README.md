@@ -1,4 +1,4 @@
-# Pre-read Material for Google Colab and Canvas
+# Pre-read Material for Google Colab
 
 ### Getting Started With Google Colab:
 
