@@ -54,7 +54,7 @@ Machine learning is the science of getting computers to act without being explic
 
 |[<img src="/Images/B.png"  width="100px" height="100px" style="border-radius:50%;">](https://github.wdf.sap.corp/tech-know-school/Machine-Learning/tree/master/modules)|    
 |:---: | 
-|[Basics](https://github.wdf.sap.corp/tech-know-school/Machine-Learning/tree/master/modules)| 
+|[Basics](https://github.wdf.sap.corp/tech-know-school/Machine-Learning/tree/master/Second%20Offering/modules)| 
 
 </td>
 </tr>
