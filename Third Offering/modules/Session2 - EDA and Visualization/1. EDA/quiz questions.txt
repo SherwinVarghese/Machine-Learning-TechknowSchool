@@ -1,0 +1,23 @@
+Which function gives the number counts of the baby weights ?
+
+1) count 
+2) values
+3) value_counts
+4) count_values
+
+Which function gives the 5 point summary ? 
+
+1) info
+2) describe
+3) subscribe 
+4) point_summary
+
+Which parameter modifies the data without assign to other dataset ?
+
+1) inplace
+2) outplace
+3) innerplace
+4) outerplace
+
+
+ 

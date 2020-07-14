@@ -1,0 +1,1616 @@
+participant_id,age,how_masuline,how_important
+1,35 - 64,Somewhat,Somewhat
+2,65 and up,Somewhat,Somewhat
+3,35 - 64,Very,Not too
+4,65 and up,Very,Not too
+5,35 - 64,Very,Very
+6,65 and up,Very,Somewhat
+7,18 - 34,Somewhat,Not too
+8,65 and up,Somewhat,Somewhat
+9,35 - 64,Very,Not at all 
+10,35 - 64,Somewhat,Somewhat
+11,35 - 64,Very,Somewhat
+12,35 - 64,Somewhat,Not too
+13,35 - 64,Very,Somewhat
+14,18 - 34,Very,Very
+15,18 - 34,Not at all,Not at all 
+16,65 and up,Somewhat,Somewhat
+17,35 - 64,Somewhat,Not too
+18,35 - 64,Somewhat,Not too
+19,65 and up,Very,Somewhat
+20,35 - 64,Somewhat,Somewhat
+21,65 and up,Not Very,Somewhat
+22,35 - 64,Somewhat,Somewhat
+23,35 - 64,Somewhat,Not too
+24,35 - 64,Very,Somewhat
+25,65 and up,Very,Not too
+26,65 and up,Somewhat,Not too
+27,65 and up,Not Very,Somewhat
+28,65 and up,Not at all,Not at all 
+29,65 and up,Very,Somewhat
+30,65 and up,Not Very,Somewhat
+31,35 - 64,Somewhat,Somewhat
+32,18 - 34,Somewhat,Somewhat
+33,35 - 64,Not Very,Not too
+34,65 and up,Somewhat,Somewhat
+35,35 - 64,Very,Somewhat
+36,35 - 64,Somewhat,Somewhat
+37,35 - 64,Somewhat,Not too
+38,65 and up,Very,Not too
+39,35 - 64,Not Very,Not too
+40,65 and up,Somewhat,Not too
+41,35 - 64,Not Very,Not too
+42,65 and up,Somewhat,Not too
+43,35 - 64,Very,Somewhat
+44,65 and up,Very,Very
+45,65 and up,Somewhat,Not at all 
+46,65 and up,Not Very,Not too
+47,18 - 34,Not Very,Not too
+48,65 and up,Very,Somewhat
+49,35 - 64,Somewhat,Somewhat
+50,18 - 34,Not Very,Somewhat
+51,65 and up,Somewhat,Not too
+52,35 - 64,Very,Somewhat
+53,65 and up,Somewhat,Not at all 
+54,35 - 64,Somewhat,Not too
+55,35 - 64,Somewhat,Not too
+56,35 - 64,Somewhat,Not too
+57,65 and up,Very,Not too
+58,65 and up,Very,Not too
+59,65 and up,Somewhat,Somewhat
+60,35 - 64,Very,Very
+61,65 and up,Very,Very
+62,65 and up,Very,Not at all 
+63,18 - 34,Not Very,Somewhat
+64,35 - 64,Not Very,Somewhat
+65,65 and up,Very,Somewhat
+66,35 - 64,Somewhat,Not too
+67,35 - 64,Very,Very
+68,65 and up,Somewhat,Not too
+69,35 - 64,Very,Not at all 
+70,65 and up,Somewhat,Not too
+71,35 - 64,Somewhat,Somewhat
+72,65 and up,Very,Somewhat
+73,65 and up,Somewhat,Somewhat
+74,35 - 64,Somewhat,Not too
+75,65 and up,Somewhat,Somewhat
+76,65 and up,Somewhat,Not too
+77,35 - 64,Not Very,Not at all 
+78,35 - 64,Very,Somewhat
+79,65 and up,Very,Not at all 
+80,35 - 64,Somewhat,Somewhat
+81,35 - 64,Somewhat,Somewhat
+82,65 and up,Very,Somewhat
+83,35 - 64,Somewhat,Very
+84,65 and up,Very,Not too
+85,35 - 64,Very,Very
+86,35 - 64,Very,Very
+87,65 and up,Very,Not too
+88,65 and up,Somewhat,Somewhat
+89,65 and up,Very,Somewhat
+90,35 - 64,Not Very,Somewhat
+91,18 - 34,Somewhat,Not too
+92,65 and up,Somewhat,Somewhat
+93,35 - 64,Somewhat,Not too
+94,35 - 64,Somewhat,Not too
+95,65 and up,Very,Somewhat
+96,65 and up,Somewhat,Not too
+97,35 - 64,Not Very,Not at all 
+98,18 - 34,Somewhat,Somewhat
+99,65 and up,Very,Not at all 
+100,65 and up,Somewhat,Not too
+101,35 - 64,Somewhat,Somewhat
+102,65 and up,Somewhat,Not at all 
+103,65 and up,Very,Very
+104,35 - 64,Somewhat,Not too
+105,65 and up,Very,Somewhat
+106,18 - 34,Somewhat,Not at all 
+107,65 and up,Not Very,Not too
+108,65 and up,Very,Not too
+109,65 and up,Somewhat,Not too
+110,35 - 64,Somewhat,Very
+111,65 and up,Very,Very
+112,35 - 64,Somewhat,Not too
+113,35 - 64,Somewhat,Somewhat
+114,35 - 64,Somewhat,Somewhat
+115,18 - 34,Very,Not at all 
+116,65 and up,Very,Very
+117,18 - 34,Very,Somewhat
+118,18 - 34,Not at all,Not too
+119,35 - 64,Somewhat,Somewhat
+120,18 - 34,Somewhat,Not too
+121,65 and up,Very,Somewhat
+122,65 and up,Very,Not too
+123,35 - 64,Somewhat,Somewhat
+124,65 and up,Somewhat,Not too
+125,35 - 64,Somewhat,Not at all 
+126,35 - 64,Very,Somewhat
+127,35 - 64,Somewhat,Very
+128,35 - 64,Not Very,Somewhat
+129,65 and up,Very,Not too
+130,35 - 64,Very,Somewhat
+131,35 - 64,Somewhat,Somewhat
+132,65 and up,Somewhat,Not too
+133,35 - 64,Not Very,Not at all 
+134,65 and up,Somewhat,Not too
+135,65 and up,Somewhat,Somewhat
+136,18 - 34,Very,Not too
+137,65 and up,Somewhat,Not too
+138,65 and up,Very,Somewhat
+139,35 - 64,Very,Somewhat
+140,18 - 34,Not at all,Not at all 
+141,18 - 34,Not Very,Not at all 
+142,35 - 64,Very,Somewhat
+143,18 - 34,Somewhat,Very
+144,65 and up,Very,Somewhat
+145,18 - 34,Not Very,Not at all 
+146,35 - 64,No answer,Not at all 
+147,65 and up,Somewhat,Not too
+148,35 - 64,Somewhat,Somewhat
+149,35 - 64,Somewhat,Somewhat
+150,35 - 64,Very,Somewhat
+151,35 - 64,Somewhat,Not too
+152,35 - 64,Somewhat,Somewhat
+153,35 - 64,Somewhat,Not too
+154,35 - 64,Not at all,Not at all 
+155,35 - 64,Very,Somewhat
+156,35 - 64,Not Very,Not at all 
+157,65 and up,Somewhat,Not too
+158,35 - 64,Somewhat,Not too
+159,35 - 64,Somewhat,Not too
+160,35 - 64,Somewhat,No answer
+161,35 - 64,Not Very,Not at all 
+162,65 and up,Very,Not at all 
+163,35 - 64,Somewhat,Somewhat
+164,18 - 34,Very,Somewhat
+165,65 and up,Not Very,Not too
+166,18 - 34,Somewhat,Somewhat
+167,35 - 64,Very,Not at all 
+168,35 - 64,Somewhat,Not at all 
+169,35 - 64,Somewhat,Very
+170,65 and up,Very,Not too
+171,18 - 34,Somewhat,Somewhat
+172,35 - 64,Somewhat,Somewhat
+173,65 and up,Somewhat,Not too
+174,65 and up,Very,Not too
+175,65 and up,Somewhat,Not too
+176,65 and up,Very,Very
+177,35 - 64,Somewhat,Somewhat
+178,35 - 64,Not at all,Somewhat
+179,18 - 34,Somewhat,Not too
+180,18 - 34,Somewhat,Not at all 
+181,65 and up,Somewhat,Not too
+182,35 - 64,Somewhat,Not too
+183,35 - 64,Very,Somewhat
+184,35 - 64,Very,Not at all 
+185,35 - 64,Very,Somewhat
+186,65 and up,Somewhat,Somewhat
+187,35 - 64,Somewhat,Not too
+188,35 - 64,Very,Very
+189,35 - 64,Not Very,Not too
+190,35 - 64,Not at all,Not at all 
+191,65 and up,Very,Very
+192,65 and up,Very,Very
+193,35 - 64,Somewhat,Somewhat
+194,35 - 64,Not Very,Somewhat
+195,65 and up,Very,Somewhat
+196,65 and up,Somewhat,Somewhat
+197,35 - 64,Somewhat,Somewhat
+198,35 - 64,Very,Somewhat
+199,35 - 64,Very,Very
+200,18 - 34,Not Very,Somewhat
+201,65 and up,Very,Very
+202,65 and up,Somewhat,Somewhat
+203,35 - 64,Somewhat,Not too
+204,65 and up,Somewhat,Not too
+205,35 - 64,Somewhat,Not at all 
+206,65 and up,Somewhat,Somewhat
+207,35 - 64,Very,Somewhat
+208,35 - 64,Very,Not at all 
+209,35 - 64,Somewhat,Not too
+210,65 and up,Very,Not too
+211,18 - 34,Somewhat,Not too
+212,65 and up,Somewhat,Not too
+213,18 - 34,Very,Very
+214,65 and up,Somewhat,Somewhat
+215,35 - 64,Not at all,Not at all 
+216,65 and up,Somewhat,Not at all 
+217,65 and up,Very,Somewhat
+218,35 - 64,Somewhat,Not too
+219,65 and up,Very,Somewhat
+220,35 - 64,Not Very,Not at all 
+221,35 - 64,Very,Very
+222,65 and up,Very,Somewhat
+223,35 - 64,Somewhat,Somewhat
+224,65 and up,Somewhat,Somewhat
+225,65 and up,Somewhat,Somewhat
+226,18 - 34,Very,Somewhat
+227,35 - 64,Somewhat,Not too
+228,35 - 64,Somewhat,Somewhat
+229,35 - 64,Somewhat,Somewhat
+230,65 and up,Very,Somewhat
+231,18 - 34,Very,Very
+232,35 - 64,Somewhat,Not too
+233,65 and up,Very,Somewhat
+234,35 - 64,Very,Somewhat
+235,35 - 64,Somewhat,Somewhat
+236,65 and up,Very,Somewhat
+237,35 - 64,Somewhat,Not too
+238,35 - 64,Somewhat,Not too
+239,35 - 64,Very,Very
+240,35 - 64,Somewhat,Somewhat
+241,35 - 64,Very,Not too
+242,18 - 34,Very,Somewhat
+243,35 - 64,Somewhat,Not too
+244,18 - 34,Somewhat,Somewhat
+245,18 - 34,Somewhat,Somewhat
+246,65 and up,Somewhat,Not too
+247,65 and up,Very,Not too
+248,35 - 64,Somewhat,Very
+249,65 and up,Very,Very
+250,65 and up,Very,Very
+251,65 and up,Somewhat,Very
+252,18 - 34,Somewhat,Somewhat
+253,18 - 34,Very,Somewhat
+254,35 - 64,Somewhat,Somewhat
+255,35 - 64,Very,Not too
+256,65 and up,Very,Not too
+257,65 and up,Not Very,Not too
+258,35 - 64,Not Very,Not at all 
+259,35 - 64,Somewhat,Not too
+260,35 - 64,Somewhat,Not too
+261,65 and up,Somewhat,Not too
+262,65 and up,Very,Very
+263,65 and up,Somewhat,Not too
+264,35 - 64,Very,Somewhat
+265,35 - 64,Very,Very
+266,35 - 64,Not Very,Not too
+267,65 and up,Not Very,Not too
+268,65 and up,Somewhat,Very
+269,65 and up,Somewhat,Somewhat
+270,65 and up,Somewhat,Somewhat
+271,65 and up,Somewhat,Very
+272,65 and up,Somewhat,Not too
+273,35 - 64,Somewhat,Somewhat
+274,35 - 64,Very,Somewhat
+275,35 - 64,Not Very,Not too
+276,65 and up,Very,Not too
+277,35 - 64,Very,Not too
+278,65 and up,Somewhat,Not too
+279,65 and up,Somewhat,Somewhat
+280,35 - 64,Somewhat,Somewhat
+281,18 - 34,Very,Not too
+282,65 and up,Very,Not at all 
+283,35 - 64,Very,Not too
+284,35 - 64,Not Very,Somewhat
+285,35 - 64,Somewhat,Somewhat
+286,18 - 34,Somewhat,Very
+287,65 and up,Very,Somewhat
+288,35 - 64,Somewhat,Not too
+289,35 - 64,Somewhat,Very
+290,65 and up,Somewhat,Not too
+291,65 and up,Somewhat,Somewhat
+292,35 - 64,Not Very,Somewhat
+293,35 - 64,Somewhat,Somewhat
+294,35 - 64,Somewhat,Somewhat
+295,18 - 34,Very,Somewhat
+296,35 - 64,Very,Somewhat
+297,65 and up,Somewhat,Not at all 
+298,35 - 64,Somewhat,Not too
+299,65 and up,Very,Very
+300,18 - 34,Very,Not at all 
+301,18 - 34,Very,Very
+302,35 - 64,Very,Not too
+303,35 - 64,Not Very,Not too
+304,65 and up,Very,Very
+305,65 and up,Not Very,Not too
+306,65 and up,Very,Somewhat
+307,65 and up,Very,Not too
+308,65 and up,Somewhat,Somewhat
+309,35 - 64,Very,Not at all 
+310,35 - 64,Somewhat,Not too
+311,65 and up,Very,Not at all 
+312,35 - 64,Somewhat,Somewhat
+313,35 - 64,Very,Very
+314,65 and up,Somewhat,Somewhat
+315,65 and up,Somewhat,Not too
+316,65 and up,Somewhat,Somewhat
+317,35 - 64,Somewhat,Not too
+318,65 and up,Very,Not too
+319,18 - 34,Not at all,Not at all 
+320,35 - 64,Somewhat,Somewhat
+321,35 - 64,Very,Somewhat
+322,65 and up,Somewhat,Not at all 
+323,65 and up,Somewhat,Not at all 
+324,35 - 64,Somewhat,Not too
+325,35 - 64,Somewhat,Somewhat
+326,35 - 64,Somewhat,Not too
+327,18 - 34,Somewhat,Not too
+328,65 and up,Somewhat,Somewhat
+329,35 - 64,Very,Somewhat
+330,65 and up,Somewhat,Not at all 
+331,65 and up,Very,Somewhat
+332,35 - 64,Somewhat,Somewhat
+333,35 - 64,Somewhat,Somewhat
+334,35 - 64,Somewhat,Not too
+335,65 and up,Very,Very
+336,35 - 64,Very,Not at all 
+337,65 and up,Not at all,Not at all 
+338,35 - 64,Somewhat,Not too
+339,65 and up,Somewhat,Somewhat
+340,65 and up,Somewhat,Somewhat
+341,35 - 64,Not Very,Somewhat
+342,65 and up,Somewhat,Not too
+343,65 and up,Somewhat,Not too
+344,65 and up,Not Very,Not at all 
+345,65 and up,Somewhat,Somewhat
+346,65 and up,Very,Somewhat
+347,35 - 64,Very,Somewhat
+348,65 and up,Very,Very
+349,35 - 64,Very,Not at all 
+350,65 and up,Very,Very
+351,65 and up,Very,Not at all 
+352,65 and up,Somewhat,Somewhat
+353,65 and up,Very,Somewhat
+354,65 and up,Not at all,Not at all 
+355,35 - 64,Somewhat,Somewhat
+356,65 and up,Very,Somewhat
+357,35 - 64,Somewhat,Somewhat
+358,65 and up,Somewhat,Somewhat
+359,35 - 64,Very,Somewhat
+360,65 and up,Somewhat,Not too
+361,65 and up,Somewhat,Somewhat
+362,35 - 64,Somewhat,Somewhat
+363,35 - 64,Very,Very
+364,35 - 64,Somewhat,Not too
+365,65 and up,Somewhat,Not too
+366,65 and up,Not Very,Not at all 
+367,18 - 34,Very,Very
+368,35 - 64,Very,Very
+369,18 - 34,Very,Very
+370,65 and up,Somewhat,Somewhat
+371,35 - 64,Somewhat,Not too
+372,65 and up,Somewhat,Somewhat
+373,35 - 64,Somewhat,Very
+374,35 - 64,Somewhat,Somewhat
+375,65 and up,Somewhat,Not at all 
+376,65 and up,Very,Not at all 
+377,35 - 64,Somewhat,Not too
+378,18 - 34,Somewhat,Somewhat
+379,65 and up,No answer,Somewhat
+380,65 and up,Not Very,Somewhat
+381,35 - 64,Somewhat,Not too
+382,35 - 64,Very,Somewhat
+383,65 and up,Very,Not too
+384,65 and up,Somewhat,Somewhat
+385,65 and up,Somewhat,Somewhat
+386,35 - 64,Very,Very
+387,65 and up,Very,Not too
+388,35 - 64,Somewhat,Not at all 
+389,18 - 34,Very,Not too
+390,35 - 64,Very,Not too
+391,35 - 64,Very,Not too
+392,35 - 64,Not Very,Not too
+393,65 and up,Very,Very
+394,18 - 34,Somewhat,Somewhat
+395,18 - 34,Not Very,Somewhat
+396,35 - 64,Somewhat,Somewhat
+397,35 - 64,Somewhat,Somewhat
+398,65 and up,Somewhat,Somewhat
+399,35 - 64,Somewhat,Very
+400,35 - 64,Somewhat,Not at all 
+401,65 and up,Somewhat,Not too
+402,65 and up,Somewhat,Not too
+403,65 and up,Very,Somewhat
+404,65 and up,Somewhat,Not too
+405,35 - 64,Somewhat,Somewhat
+406,18 - 34,Very,Not too
+407,18 - 34,Somewhat,Not too
+408,65 and up,Very,Somewhat
+409,35 - 64,Somewhat,Somewhat
+410,65 and up,Somewhat,Not too
+411,65 and up,Very,Somewhat
+412,65 and up,Somewhat,Somewhat
+413,65 and up,Very,Not at all 
+414,35 - 64,Somewhat,Very
+415,35 - 64,Somewhat,Not too
+416,35 - 64,Very,Not at all 
+417,65 and up,Very,Not at all 
+418,35 - 64,Somewhat,Not too
+419,65 and up,Very,Not at all 
+420,35 - 64,Very,Very
+421,65 and up,Somewhat,Not too
+422,65 and up,Somewhat,Not too
+423,35 - 64,Somewhat,Somewhat
+424,35 - 64,Somewhat,Somewhat
+425,65 and up,Not Very,Not at all 
+426,65 and up,Somewhat,Somewhat
+427,65 and up,Not Very,Not too
+428,65 and up,Somewhat,Very
+429,35 - 64,Very,Not too
+430,35 - 64,Somewhat,Somewhat
+431,35 - 64,Very,Not too
+432,65 and up,Somewhat,Not too
+433,65 and up,Very,Very
+434,18 - 34,Somewhat,Somewhat
+435,65 and up,Somewhat,Somewhat
+436,65 and up,Somewhat,Somewhat
+437,18 - 34,Very,Not too
+438,35 - 64,Somewhat,Somewhat
+439,65 and up,Somewhat,Somewhat
+440,65 and up,Somewhat,Not too
+441,35 - 64,Very,Somewhat
+442,35 - 64,Very,Somewhat
+443,35 - 64,Very,Not too
+444,35 - 64,Somewhat,Somewhat
+445,65 and up,Very,Not too
+446,35 - 64,Somewhat,Somewhat
+447,65 and up,Very,Not too
+448,65 and up,Very,Somewhat
+449,35 - 64,Somewhat,Somewhat
+450,35 - 64,Somewhat,Somewhat
+451,35 - 64,Somewhat,Somewhat
+452,35 - 64,Somewhat,Not too
+453,65 and up,Somewhat,Not at all 
+454,65 and up,Somewhat,Somewhat
+455,35 - 64,Not Very,Not too
+456,65 and up,Somewhat,Somewhat
+457,35 - 64,Somewhat,Not at all 
+458,65 and up,Very,Very
+459,18 - 34,Somewhat,Very
+460,35 - 64,Somewhat,Not too
+461,35 - 64,Somewhat,Somewhat
+462,65 and up,Somewhat,Not at all 
+463,35 - 64,Somewhat,Somewhat
+464,35 - 64,Somewhat,Somewhat
+465,35 - 64,Somewhat,Very
+466,35 - 64,Somewhat,Very
+467,35 - 64,Very,Not too
+468,65 and up,Very,Not too
+469,35 - 64,Somewhat,Not too
+470,35 - 64,Very,Not at all 
+471,35 - 64,Very,Very
+472,65 and up,Very,Not at all 
+473,35 - 64,Not Very,Not too
+474,35 - 64,Somewhat,Somewhat
+475,35 - 64,Somewhat,Somewhat
+476,65 and up,Very,Not too
+477,65 and up,Very,Not too
+478,65 and up,Somewhat,Somewhat
+479,65 and up,Somewhat,Somewhat
+480,65 and up,Somewhat,Not too
+481,65 and up,Very,Not too
+482,35 - 64,Very,Somewhat
+483,35 - 64,Very,Somewhat
+484,65 and up,Somewhat,Not too
+485,65 and up,Somewhat,Not too
+486,65 and up,Very,Very
+487,35 - 64,Very,Somewhat
+488,65 and up,Very,Somewhat
+489,65 and up,Very,Very
+490,35 - 64,Somewhat,Very
+491,35 - 64,Somewhat,Not too
+492,65 and up,Not Very,Not too
+493,65 and up,Somewhat,Not too
+494,35 - 64,Very,Somewhat
+495,35 - 64,Very,Somewhat
+496,65 and up,Very,Somewhat
+497,65 and up,Very,Not at all 
+498,65 and up,Somewhat,Not too
+499,65 and up,Somewhat,Somewhat
+500,35 - 64,Not Very,Very
+501,35 - 64,Somewhat,Somewhat
+502,65 and up,Very,Somewhat
+503,35 - 64,Somewhat,Somewhat
+504,65 and up,Somewhat,Not too
+505,65 and up,Very,Very
+506,35 - 64,Somewhat,Not too
+507,35 - 64,Very,Very
+508,65 and up,Not Very,Not at all 
+509,65 and up,Very,Somewhat
+510,65 and up,Somewhat,Not too
+511,65 and up,Not Very,Not too
+512,35 - 64,Somewhat,Somewhat
+513,65 and up,Not Very,Not at all 
+514,65 and up,Somewhat,Not too
+515,35 - 64,Very,Not at all 
+516,35 - 64,Somewhat,Somewhat
+517,65 and up,Somewhat,Somewhat
+518,65 and up,Very,Very
+519,65 and up,Somewhat,Not too
+520,35 - 64,Very,Not too
+521,65 and up,Somewhat,Not at all 
+522,35 - 64,Very,Somewhat
+523,65 and up,Somewhat,Somewhat
+524,65 and up,Very,Somewhat
+525,65 and up,Very,Very
+526,65 and up,Somewhat,Not too
+527,65 and up,Very,Not too
+528,65 and up,Somewhat,Not at all 
+529,65 and up,Somewhat,Not too
+530,65 and up,Somewhat,Not too
+531,65 and up,No answer,Not at all 
+532,35 - 64,Very,Very
+533,35 - 64,Very,Not at all 
+534,18 - 34,Very,Very
+535,65 and up,Very,Not too
+536,65 and up,Very,Very
+537,65 and up,Somewhat,Not too
+538,35 - 64,Somewhat,Not too
+539,65 and up,Somewhat,Somewhat
+540,65 and up,Very,Somewhat
+541,65 and up,Somewhat,Somewhat
+542,35 - 64,Somewhat,Not too
+543,65 and up,Very,Somewhat
+544,65 and up,Very,Somewhat
+545,65 and up,Somewhat,Not too
+546,65 and up,Very,Not too
+547,65 and up,Not Very,Not too
+548,65 and up,Somewhat,Not too
+549,65 and up,Very,Not at all 
+550,65 and up,Somewhat,Not too
+551,65 and up,Very,Not too
+552,35 - 64,Somewhat,Somewhat
+553,65 and up,Somewhat,Somewhat
+554,65 and up,Somewhat,Not too
+555,65 and up,Somewhat,Not too
+556,65 and up,Not Very,Not too
+557,65 and up,Very,Somewhat
+558,35 - 64,Very,Somewhat
+559,65 and up,Somewhat,Somewhat
+560,35 - 64,Somewhat,Somewhat
+561,65 and up,Somewhat,Not too
+562,65 and up,Somewhat,Not too
+563,35 - 64,Very,Somewhat
+564,35 - 64,Very,Somewhat
+565,35 - 64,Somewhat,Not too
+566,35 - 64,Somewhat,Not too
+567,35 - 64,Somewhat,Somewhat
+568,65 and up,Somewhat,Somewhat
+569,35 - 64,Not Very,Not too
+570,65 and up,Very,Very
+571,65 and up,Somewhat,Not too
+572,35 - 64,Very,Not at all 
+573,35 - 64,Very,Very
+574,35 - 64,Somewhat,Not too
+575,35 - 64,Very,Not too
+576,65 and up,Very,Very
+577,35 - 64,Very,Not at all 
+578,65 and up,Somewhat,Not at all 
+579,65 and up,Somewhat,Somewhat
+580,65 and up,Very,Somewhat
+581,65 and up,Somewhat,Not too
+582,65 and up,Very,Very
+583,65 and up,Very,Somewhat
+584,35 - 64,Not Very,Not at all 
+585,65 and up,Very,Somewhat
+586,35 - 64,No answer,Not at all 
+587,35 - 64,Somewhat,Somewhat
+588,35 - 64,Somewhat,Somewhat
+589,65 and up,Somewhat,Not too
+590,65 and up,Somewhat,Not too
+591,18 - 34,Somewhat,Not at all 
+592,35 - 64,Not at all,Very
+593,65 and up,Very,Somewhat
+594,65 and up,Very,Not too
+595,65 and up,Somewhat,Not at all 
+596,65 and up,Somewhat,Not at all 
+597,65 and up,Very,Not at all 
+598,65 and up,Somewhat,Somewhat
+599,35 - 64,Somewhat,Somewhat
+600,65 and up,Very,Not too
+601,65 and up,Somewhat,Not at all 
+602,35 - 64,Somewhat,Not at all 
+603,65 and up,Very,Somewhat
+604,35 - 64,Somewhat,Somewhat
+605,65 and up,Somewhat,Somewhat
+606,65 and up,Somewhat,Not too
+607,65 and up,Somewhat,Not too
+608,65 and up,Somewhat,Somewhat
+609,65 and up,Somewhat,Somewhat
+610,35 - 64,Very,Somewhat
+611,65 and up,Very,Very
+612,65 and up,Somewhat,Not too
+613,65 and up,Somewhat,Somewhat
+614,35 - 64,Very,Very
+615,18 - 34,Not at all,Not at all 
+616,35 - 64,Somewhat,No answer
+617,65 and up,Somewhat,Somewhat
+618,65 and up,Very,Somewhat
+619,65 and up,Somewhat,Not at all 
+620,65 and up,Somewhat,Somewhat
+621,65 and up,Somewhat,Not too
+622,65 and up,Somewhat,Somewhat
+623,35 - 64,Somewhat,Somewhat
+624,65 and up,Very,Not at all 
+625,65 and up,Very,Not too
+626,65 and up,Somewhat,Somewhat
+627,35 - 64,Somewhat,Not too
+628,65 and up,Not Very,Not too
+629,65 and up,Very,Somewhat
+630,65 and up,Somewhat,Not too
+631,65 and up,Somewhat,Somewhat
+632,65 and up,Somewhat,Not at all 
+633,35 - 64,Very,Somewhat
+634,35 - 64,Very,Very
+635,65 and up,Somewhat,Somewhat
+636,65 and up,Very,Somewhat
+637,65 and up,Very,Not at all 
+638,35 - 64,Somewhat,Not at all 
+639,35 - 64,Somewhat,Not too
+640,65 and up,Somewhat,Not too
+641,65 and up,Very,Not too
+642,65 and up,Very,Very
+643,65 and up,Somewhat,Not too
+644,35 - 64,Very,Somewhat
+645,35 - 64,Somewhat,Somewhat
+646,35 - 64,Very,Very
+647,65 and up,Somewhat,Not too
+648,35 - 64,Very,Somewhat
+649,65 and up,Somewhat,Very
+650,65 and up,Very,Somewhat
+651,35 - 64,Very,Not too
+652,35 - 64,Somewhat,Not too
+653,65 and up,Somewhat,Not at all 
+654,35 - 64,Very,Somewhat
+655,65 and up,Very,Somewhat
+656,65 and up,Not at all,Not at all 
+657,65 and up,Somewhat,Somewhat
+658,35 - 64,Not Very,Somewhat
+659,35 - 64,Somewhat,Very
+660,65 and up,Not at all,Not at all 
+661,65 and up,Very,Very
+662,35 - 64,Somewhat,Not too
+663,35 - 64,Very,Somewhat
+664,35 - 64,Somewhat,Somewhat
+665,35 - 64,Somewhat,Not at all 
+666,65 and up,Very,Very
+667,35 - 64,Very,Somewhat
+668,35 - 64,Very,Not too
+669,65 and up,Very,Not at all 
+670,35 - 64,Very,Somewhat
+671,35 - 64,Somewhat,Somewhat
+672,65 and up,Not Very,Not at all 
+673,35 - 64,Very,Not at all 
+674,65 and up,Somewhat,Not too
+675,35 - 64,Very,Somewhat
+676,65 and up,Very,Very
+677,35 - 64,Somewhat,Not too
+678,35 - 64,Somewhat,Somewhat
+679,35 - 64,Somewhat,Not too
+680,35 - 64,Somewhat,Somewhat
+681,65 and up,Somewhat,Not too
+682,35 - 64,Very,Somewhat
+683,35 - 64,Not Very,Not at all 
+684,35 - 64,Somewhat,Not at all 
+685,65 and up,Not Very,Not too
+686,65 and up,Somewhat,Not too
+687,35 - 64,Somewhat,Not too
+688,35 - 64,Very,Very
+689,35 - 64,Somewhat,Very
+690,35 - 64,Somewhat,Not too
+691,65 and up,Somewhat,Not too
+692,35 - 64,Very,Not at all 
+693,65 and up,Very,Not too
+694,65 and up,Somewhat,Somewhat
+695,65 and up,Not Very,Not too
+696,65 and up,Somewhat,Not too
+697,65 and up,Very,Not at all 
+698,35 - 64,Very,Not too
+699,35 - 64,Somewhat,Somewhat
+700,65 and up,Somewhat,Somewhat
+701,65 and up,Somewhat,Very
+702,35 - 64,Very,Not at all 
+703,35 - 64,Somewhat,Not too
+704,65 and up,Somewhat,Somewhat
+705,35 - 64,Somewhat,Not too
+706,35 - 64,Not Very,Not too
+707,35 - 64,Somewhat,Somewhat
+708,35 - 64,Somewhat,Not too
+709,18 - 34,Very,Not at all 
+710,65 and up,Somewhat,Not too
+711,65 and up,Somewhat,Somewhat
+712,65 and up,Not at all,Not at all 
+713,65 and up,Somewhat,Not at all 
+714,35 - 64,Somewhat,Not too
+715,18 - 34,Very,Somewhat
+716,35 - 64,Somewhat,Very
+717,65 and up,Very,Somewhat
+718,35 - 64,Somewhat,Not too
+719,35 - 64,Very,Somewhat
+720,65 and up,Somewhat,Not too
+721,65 and up,Somewhat,Not too
+722,35 - 64,Somewhat,Somewhat
+723,35 - 64,Somewhat,Very
+724,35 - 64,Somewhat,Very
+725,35 - 64,Very,Somewhat
+726,65 and up,Very,Very
+727,35 - 64,Somewhat,Somewhat
+728,35 - 64,Somewhat,Somewhat
+729,65 and up,Very,Not too
+730,65 and up,Somewhat,Not too
+731,35 - 64,Very,Very
+732,35 - 64,Very,Somewhat
+733,65 and up,Somewhat,Somewhat
+734,65 and up,Somewhat,Somewhat
+735,65 and up,Somewhat,Somewhat
+736,35 - 64,Somewhat,Somewhat
+737,35 - 64,Very,Not too
+738,65 and up,Somewhat,Somewhat
+739,35 - 64,Very,Not too
+740,65 and up,Somewhat,Not at all 
+741,35 - 64,Somewhat,Very
+742,65 and up,Very,Somewhat
+743,35 - 64,Somewhat,Somewhat
+744,35 - 64,No answer,No answer
+745,65 and up,Somewhat,Very
+746,35 - 64,Somewhat,Not too
+747,65 and up,Very,Not too
+748,65 and up,Somewhat,Not too
+749,65 and up,Somewhat,Not at all 
+750,65 and up,Very,Not too
+751,35 - 64,Somewhat,Not at all 
+752,35 - 64,Somewhat,Not too
+753,35 - 64,Very,Not too
+754,65 and up,Very,Very
+755,65 and up,Somewhat,Somewhat
+756,35 - 64,Very,Very
+757,65 and up,Somewhat,Not too
+758,35 - 64,Very,Very
+759,65 and up,Very,Not too
+760,35 - 64,Very,Not too
+761,65 and up,Somewhat,Somewhat
+762,65 and up,Somewhat,Somewhat
+763,35 - 64,Somewhat,Somewhat
+764,35 - 64,Somewhat,Somewhat
+765,65 and up,Somewhat,Not too
+766,65 and up,Somewhat,Not too
+767,65 and up,Very,Not too
+768,65 and up,Very,Somewhat
+769,35 - 64,No answer,Not at all 
+770,65 and up,Very,Not too
+771,35 - 64,Very,Somewhat
+772,65 and up,Not Very,Not too
+773,35 - 64,Not Very,Not too
+774,65 and up,Very,Somewhat
+775,35 - 64,Very,Very
+776,65 and up,Somewhat,Not too
+777,65 and up,Very,Not too
+778,35 - 64,Somewhat,Somewhat
+779,35 - 64,Somewhat,Somewhat
+780,35 - 64,Somewhat,Not too
+781,35 - 64,Very,Somewhat
+782,35 - 64,Very,Not too
+783,65 and up,Very,Somewhat
+784,65 and up,Very,Somewhat
+785,35 - 64,Somewhat,Not too
+786,65 and up,Somewhat,Somewhat
+787,35 - 64,Very,Somewhat
+788,65 and up,Somewhat,Not too
+789,65 and up,Very,Not too
+790,65 and up,Somewhat,Somewhat
+791,65 and up,Very,Somewhat
+792,65 and up,Somewhat,Not too
+793,35 - 64,Somewhat,Very
+794,65 and up,Somewhat,Somewhat
+795,65 and up,Very,Very
+796,35 - 64,Very,Not too
+797,35 - 64,Somewhat,Not too
+798,65 and up,Very,Somewhat
+799,65 and up,Somewhat,Somewhat
+800,65 and up,Not Very,Not too
+801,65 and up,Very,Not too
+802,65 and up,Somewhat,Somewhat
+803,35 - 64,Not at all,Not at all 
+804,65 and up,Somewhat,Somewhat
+805,35 - 64,Very,Somewhat
+806,35 - 64,Very,Very
+807,35 - 64,Very,Very
+808,65 and up,Very,Somewhat
+809,35 - 64,Very,Not too
+810,65 and up,Very,Not too
+811,65 and up,Very,Somewhat
+812,35 - 64,Very,Very
+813,35 - 64,Somewhat,Not too
+814,65 and up,Somewhat,Somewhat
+815,35 - 64,Somewhat,Not too
+816,65 and up,Not Very,Not too
+817,65 and up,No answer,Not at all 
+818,65 and up,Somewhat,Somewhat
+819,35 - 64,Very,Not too
+820,65 and up,Very,Not too
+821,65 and up,Very,Very
+822,35 - 64,Very,Somewhat
+823,65 and up,Somewhat,Somewhat
+824,35 - 64,Very,Not too
+825,35 - 64,Very,Somewhat
+826,65 and up,Somewhat,Somewhat
+827,35 - 64,Somewhat,Somewhat
+828,65 and up,Somewhat,Somewhat
+829,65 and up,Not Very,Not too
+830,65 and up,Somewhat,Somewhat
+831,65 and up,Very,Not too
+832,35 - 64,Very,Somewhat
+833,65 and up,Very,Somewhat
+834,35 - 64,Somewhat,Not at all 
+835,65 and up,Somewhat,Not too
+836,65 and up,Very,Somewhat
+837,65 and up,Very,Not too
+838,35 - 64,Very,Not too
+839,35 - 64,Very,Not too
+840,35 - 64,Somewhat,Somewhat
+841,65 and up,Not Very,Not too
+842,65 and up,Not Very,Not at all 
+843,35 - 64,Somewhat,Somewhat
+844,65 and up,Somewhat,Somewhat
+845,35 - 64,Very,Not too
+846,65 and up,Very,Somewhat
+847,65 and up,Very,Somewhat
+848,35 - 64,Somewhat,Somewhat
+849,65 and up,Somewhat,Somewhat
+850,65 and up,Somewhat,Not too
+851,35 - 64,Somewhat,Not at all 
+852,65 and up,Very,Very
+853,65 and up,Very,Not at all 
+854,35 - 64,Somewhat,Somewhat
+855,35 - 64,Somewhat,Not too
+856,65 and up,Somewhat,Not too
+857,35 - 64,Very,Very
+858,65 and up,Somewhat,Not at all 
+859,65 and up,Somewhat,Somewhat
+860,65 and up,Somewhat,Not too
+861,35 - 64,Very,Not at all 
+862,65 and up,Somewhat,Not too
+863,35 - 64,Very,Not too
+864,65 and up,Very,Somewhat
+865,65 and up,Somewhat,Not too
+866,65 and up,Very,Very
+867,65 and up,Very,Somewhat
+868,35 - 64,Very,Not too
+869,35 - 64,Somewhat,Somewhat
+870,35 - 64,Not Very,Not too
+871,65 and up,Very,Very
+872,65 and up,Somewhat,Not too
+873,35 - 64,Somewhat,Somewhat
+874,35 - 64,Very,Somewhat
+875,65 and up,Somewhat,Somewhat
+876,65 and up,Somewhat,Somewhat
+877,35 - 64,Somewhat,Somewhat
+878,65 and up,Somewhat,Not too
+879,65 and up,Not Very,Not at all 
+880,35 - 64,Somewhat,Somewhat
+881,35 - 64,Very,Not at all 
+882,35 - 64,Somewhat,Not too
+883,65 and up,Not Very,Somewhat
+884,65 and up,Very,Not too
+885,65 and up,Somewhat,Somewhat
+886,65 and up,Not Very,Not at all 
+887,35 - 64,Very,Somewhat
+888,65 and up,Somewhat,Not too
+889,65 and up,Somewhat,Somewhat
+890,35 - 64,Somewhat,Not too
+891,65 and up,Somewhat,Not at all 
+892,65 and up,Somewhat,Very
+893,35 - 64,Somewhat,Somewhat
+894,65 and up,Somewhat,Somewhat
+895,65 and up,Somewhat,Somewhat
+896,65 and up,Very,Not too
+897,35 - 64,Not Very,Somewhat
+898,35 - 64,Somewhat,Somewhat
+899,65 and up,Very,Very
+900,35 - 64,Somewhat,Somewhat
+901,65 and up,Somewhat,Not too
+902,65 and up,Very,Somewhat
+903,65 and up,Very,Not at all 
+904,18 - 34,Somewhat,Somewhat
+905,35 - 64,Not Very,Not too
+906,35 - 64,Very,Very
+907,65 and up,Somewhat,Not too
+908,65 and up,Somewhat,Not too
+909,35 - 64,Very,Somewhat
+910,65 and up,Somewhat,Somewhat
+911,65 and up,Somewhat,Not too
+912,65 and up,Very,Somewhat
+913,65 and up,Very,Very
+914,35 - 64,Very,Somewhat
+915,35 - 64,Somewhat,Somewhat
+916,35 - 64,Somewhat,Somewhat
+917,35 - 64,Very,Not too
+918,65 and up,Very,Not at all 
+919,35 - 64,Somewhat,Not too
+920,65 and up,Somewhat,Not too
+921,35 - 64,Somewhat,Somewhat
+922,35 - 64,Somewhat,Very
+923,35 - 64,Somewhat,Somewhat
+924,35 - 64,Somewhat,Somewhat
+925,35 - 64,Somewhat,Somewhat
+926,65 and up,Somewhat,Not too
+927,35 - 64,Very,Not at all 
+928,35 - 64,Very,Somewhat
+929,65 and up,Somewhat,Somewhat
+930,35 - 64,Somewhat,Somewhat
+931,65 and up,Somewhat,Somewhat
+932,35 - 64,Somewhat,Not too
+933,65 and up,Very,Somewhat
+934,35 - 64,Somewhat,Somewhat
+935,35 - 64,Very,Very
+936,35 - 64,No answer,No answer
+937,65 and up,Somewhat,Not too
+938,35 - 64,Not Very,Not too
+939,35 - 64,Somewhat,Somewhat
+940,35 - 64,Very,Somewhat
+941,65 and up,No answer,Not too
+942,65 and up,Very,Very
+943,65 and up,Somewhat,Somewhat
+944,65 and up,Very,Somewhat
+945,35 - 64,Somewhat,Very
+946,18 - 34,Not Very,Not too
+947,35 - 64,Very,Not too
+948,65 and up,Somewhat,Not too
+949,65 and up,Somewhat,Not at all 
+950,18 - 34,Very,Not too
+951,35 - 64,Somewhat,Somewhat
+952,35 - 64,Very,Not at all 
+953,65 and up,Somewhat,Somewhat
+954,65 and up,Somewhat,Not at all 
+955,65 and up,Somewhat,Not too
+956,65 and up,Somewhat,Somewhat
+957,65 and up,Not Very,Not at all 
+958,65 and up,Very,Very
+959,65 and up,Somewhat,Somewhat
+960,35 - 64,Very,Very
+961,35 - 64,Very,Not at all 
+962,35 - 64,Very,Not at all 
+963,65 and up,Somewhat,Not too
+964,65 and up,Very,Somewhat
+965,65 and up,Somewhat,Not too
+966,65 and up,Very,Not too
+967,35 - 64,Very,Not at all 
+968,65 and up,Very,Somewhat
+969,35 - 64,Very,Not too
+970,65 and up,Somewhat,Not at all 
+971,65 and up,Very,Not too
+972,35 - 64,Very,Not too
+973,65 and up,Very,Somewhat
+974,35 - 64,Somewhat,Somewhat
+975,35 - 64,Very,Not at all 
+976,65 and up,Somewhat,Somewhat
+977,65 and up,Very,Not at all 
+978,35 - 64,Very,Not too
+979,35 - 64,Somewhat,Not too
+980,65 and up,Somewhat,Somewhat
+981,65 and up,Somewhat,Not too
+982,65 and up,Very,Not at all 
+983,35 - 64,Very,Somewhat
+984,65 and up,Very,Not too
+985,35 - 64,Not Very,Somewhat
+986,35 - 64,Not Very,Somewhat
+987,35 - 64,Somewhat,Not too
+988,35 - 64,Not Very,Somewhat
+989,35 - 64,Somewhat,Not too
+990,35 - 64,Somewhat,Somewhat
+991,65 and up,Not Very,Not too
+992,65 and up,Very,Not too
+993,65 and up,Somewhat,Somewhat
+994,35 - 64,Somewhat,Not too
+995,65 and up,Somewhat,Not at all 
+996,65 and up,Very,Somewhat
+997,35 - 64,Somewhat,Not too
+998,65 and up,Very,Not too
+999,65 and up,Somewhat,Not too
+1000,35 - 64,Somewhat,Not too
+1001,35 - 64,Somewhat,Somewhat
+1002,35 - 64,Not Very,Not too
+1003,65 and up,Not Very,Not too
+1004,35 - 64,Somewhat,No answer
+1005,35 - 64,Not Very,Not at all 
+1006,35 - 64,Very,Not too
+1007,35 - 64,Somewhat,Not too
+1008,65 and up,Somewhat,Somewhat
+1009,35 - 64,Somewhat,Somewhat
+1010,65 and up,Very,Somewhat
+1011,35 - 64,Somewhat,Not at all 
+1012,35 - 64,Somewhat,Not too
+1013,35 - 64,Somewhat,Somewhat
+1014,65 and up,Somewhat,Not too
+1015,35 - 64,Very,Very
+1016,18 - 34,Very,Not too
+1017,35 - 64,Somewhat,Not at all 
+1018,65 and up,Very,Somewhat
+1019,65 and up,Somewhat,Somewhat
+1020,65 and up,Somewhat,Somewhat
+1021,65 and up,Somewhat,Very
+1022,35 - 64,Somewhat,Not at all 
+1023,35 - 64,Somewhat,Not at all 
+1024,65 and up,Very,Not at all 
+1025,65 and up,Somewhat,Somewhat
+1026,35 - 64,Not Very,Not too
+1027,35 - 64,Somewhat,Not too
+1028,35 - 64,Somewhat,Not at all 
+1029,35 - 64,Somewhat,Not too
+1030,35 - 64,Very,Not at all 
+1031,65 and up,Very,Very
+1032,65 and up,Somewhat,Not at all 
+1033,65 and up,Somewhat,Not too
+1034,65 and up,Somewhat,Somewhat
+1035,35 - 64,Somewhat,Not too
+1036,35 - 64,Somewhat,Not at all 
+1037,65 and up,Very,Somewhat
+1038,65 and up,Somewhat,Not too
+1039,65 and up,Somewhat,Somewhat
+1040,35 - 64,Somewhat,Somewhat
+1041,65 and up,Very,Very
+1042,18 - 34,Not Very,Not at all 
+1043,65 and up,Somewhat,Somewhat
+1044,35 - 64,Somewhat,Somewhat
+1045,18 - 34,Somewhat,Not too
+1046,35 - 64,Somewhat,Not too
+1047,35 - 64,Very,Not too
+1048,65 and up,Somewhat,Not at all 
+1049,35 - 64,Very,Not at all 
+1050,65 and up,Somewhat,Very
+1051,65 and up,Very,Not too
+1052,35 - 64,Somewhat,Not too
+1053,18 - 34,Somewhat,Not too
+1054,35 - 64,Somewhat,Somewhat
+1055,65 and up,Not Very,Not too
+1056,18 - 34,Somewhat,Not at all 
+1057,65 and up,Somewhat,Not too
+1058,35 - 64,Very,Somewhat
+1059,35 - 64,Very,Not at all 
+1060,65 and up,Very,Somewhat
+1061,35 - 64,Somewhat,Not at all 
+1062,65 and up,Somewhat,Somewhat
+1063,65 and up,Very,Not at all 
+1064,65 and up,Somewhat,Not too
+1065,65 and up,Somewhat,Not too
+1066,35 - 64,Somewhat,Not too
+1067,35 - 64,Somewhat,Not too
+1068,35 - 64,Somewhat,Not too
+1069,35 - 64,Somewhat,Somewhat
+1070,65 and up,Very,Not too
+1071,35 - 64,Somewhat,Somewhat
+1072,65 and up,Somewhat,Somewhat
+1073,65 and up,Very,Not at all 
+1074,35 - 64,Very,Somewhat
+1075,35 - 64,Not at all,Not too
+1076,65 and up,Very,Not too
+1077,65 and up,Somewhat,Not too
+1078,65 and up,Somewhat,Not too
+1079,35 - 64,Somewhat,Somewhat
+1080,35 - 64,Somewhat,Somewhat
+1081,35 - 64,Very,Somewhat
+1082,35 - 64,Very,Not too
+1083,65 and up,Very,Not at all 
+1084,35 - 64,Very,Not at all 
+1085,35 - 64,Very,Somewhat
+1086,35 - 64,Somewhat,Not too
+1087,35 - 64,Somewhat,Somewhat
+1088,65 and up,Not Very,Somewhat
+1089,65 and up,Somewhat,Not at all 
+1090,65 and up,Somewhat,Not too
+1091,65 and up,Very,Not at all 
+1092,65 and up,Somewhat,Somewhat
+1093,65 and up,Somewhat,Somewhat
+1094,35 - 64,Very,Very
+1095,65 and up,Somewhat,Not too
+1096,65 and up,Very,Not at all 
+1097,35 - 64,Somewhat,Somewhat
+1098,65 and up,Very,Not at all 
+1099,35 - 64,Somewhat,Not too
+1100,35 - 64,Somewhat,Somewhat
+1101,35 - 64,No answer,Not at all 
+1102,65 and up,Very,Somewhat
+1103,65 and up,Somewhat,Not too
+1104,65 and up,Very,Very
+1105,35 - 64,Very,Somewhat
+1106,35 - 64,Very,Not too
+1107,35 - 64,Not Very,Not too
+1108,35 - 64,Not at all,Somewhat
+1109,35 - 64,Very,Not too
+1110,65 and up,Somewhat,Somewhat
+1111,35 - 64,Somewhat,Not too
+1112,65 and up,Somewhat,Very
+1113,35 - 64,Somewhat,Not too
+1114,65 and up,Very,Very
+1115,65 and up,Very,Somewhat
+1116,65 and up,Not Very,Not too
+1117,35 - 64,Very,Very
+1118,65 and up,Somewhat,Not too
+1119,65 and up,Somewhat,Not too
+1120,65 and up,Very,Very
+1121,18 - 34,Somewhat,Not at all 
+1122,35 - 64,Somewhat,Somewhat
+1123,35 - 64,Very,Very
+1124,35 - 64,Very,Somewhat
+1125,35 - 64,Not Very,Not too
+1126,65 and up,Very,Very
+1127,35 - 64,Very,Somewhat
+1128,35 - 64,Very,Not at all 
+1129,65 and up,Somewhat,Somewhat
+1130,35 - 64,Very,Somewhat
+1131,35 - 64,Somewhat,Somewhat
+1132,35 - 64,Very,Somewhat
+1133,65 and up,Not Very,Somewhat
+1134,65 and up,Very,Not too
+1135,35 - 64,Somewhat,Not at all 
+1136,65 and up,Somewhat,Not at all 
+1137,65 and up,Not Very,Not too
+1138,35 - 64,Very,Not too
+1139,65 and up,Very,Not too
+1140,65 and up,Somewhat,Somewhat
+1141,65 and up,Somewhat,Somewhat
+1142,35 - 64,Very,Somewhat
+1143,65 and up,Very,Somewhat
+1144,35 - 64,Very,Somewhat
+1145,35 - 64,Somewhat,Somewhat
+1146,35 - 64,Somewhat,Not too
+1147,35 - 64,Somewhat,Not too
+1148,65 and up,Somewhat,Somewhat
+1149,65 and up,Somewhat,Not too
+1150,65 and up,Somewhat,Not too
+1151,65 and up,Very,Not at all 
+1152,35 - 64,Very,Not at all 
+1153,35 - 64,Very,Somewhat
+1154,35 - 64,Somewhat,Not too
+1155,65 and up,Very,Somewhat
+1156,65 and up,Somewhat,Not too
+1157,35 - 64,Not at all,Not at all 
+1158,35 - 64,Somewhat,Not at all 
+1159,35 - 64,Somewhat,Not too
+1160,65 and up,No answer,Not at all 
+1161,65 and up,Not Very,Not too
+1162,35 - 64,Somewhat,Somewhat
+1163,35 - 64,Somewhat,Somewhat
+1164,35 - 64,Somewhat,Not at all 
+1165,35 - 64,Somewhat,Somewhat
+1166,65 and up,Somewhat,Not too
+1167,65 and up,Somewhat,Not too
+1168,65 and up,Somewhat,Not at all 
+1169,35 - 64,Not Very,Not at all 
+1170,65 and up,Not Very,Not at all 
+1171,65 and up,Not at all,Not at all 
+1172,35 - 64,Very,Very
+1173,35 - 64,Very,Not too
+1174,35 - 64,Very,Very
+1175,35 - 64,Very,Not at all 
+1176,18 - 34,Somewhat,Somewhat
+1177,65 and up,Very,Not too
+1178,35 - 64,Somewhat,Somewhat
+1179,65 and up,Somewhat,Somewhat
+1180,18 - 34,Somewhat,Somewhat
+1181,65 and up,Not Very,Very
+1182,65 and up,Very,Not at all 
+1183,35 - 64,Somewhat,Somewhat
+1184,35 - 64,Very,Not at all 
+1185,35 - 64,Somewhat,Not at all 
+1186,35 - 64,Somewhat,Somewhat
+1187,65 and up,Very,Very
+1188,18 - 34,Somewhat,Very
+1189,35 - 64,Somewhat,Somewhat
+1190,65 and up,Somewhat,Not too
+1191,65 and up,Very,Not too
+1192,65 and up,Very,Not too
+1193,65 and up,Somewhat,Somewhat
+1194,35 - 64,Very,Somewhat
+1195,65 and up,Somewhat,Somewhat
+1196,35 - 64,Somewhat,Somewhat
+1197,18 - 34,Somewhat,Somewhat
+1198,35 - 64,Somewhat,Not too
+1199,35 - 64,Somewhat,Somewhat
+1200,35 - 64,Somewhat,Not too
+1201,35 - 64,Very,Somewhat
+1202,35 - 64,Not Very,Not at all 
+1203,35 - 64,Very,Not too
+1204,35 - 64,Not Very,Not too
+1205,35 - 64,Somewhat,Somewhat
+1206,35 - 64,Somewhat,Somewhat
+1207,35 - 64,Somewhat,Not at all 
+1208,35 - 64,Somewhat,Somewhat
+1209,35 - 64,Very,Very
+1210,35 - 64,Very,Somewhat
+1211,35 - 64,Very,Not too
+1212,35 - 64,Somewhat,Not at all 
+1213,35 - 64,Somewhat,Not too
+1214,35 - 64,Somewhat,Not too
+1215,35 - 64,Very,Somewhat
+1216,35 - 64,Somewhat,Not at all 
+1217,35 - 64,Very,Not at all 
+1218,35 - 64,Very,Not at all 
+1219,35 - 64,Not Very,Somewhat
+1220,35 - 64,Somewhat,Somewhat
+1221,35 - 64,Somewhat,Somewhat
+1222,35 - 64,Somewhat,Very
+1223,35 - 64,Very,Not at all 
+1224,35 - 64,Very,Very
+1225,35 - 64,Very,Very
+1226,35 - 64,Somewhat,Very
+1227,35 - 64,Very,Very
+1228,35 - 64,Somewhat,Not too
+1229,35 - 64,Very,Somewhat
+1230,35 - 64,Not at all,Not at all 
+1231,35 - 64,Very,Not too
+1232,35 - 64,Very,Not too
+1233,35 - 64,Very,Not at all 
+1234,35 - 64,Somewhat,Somewhat
+1235,35 - 64,Very,Somewhat
+1236,35 - 64,Very,Very
+1237,35 - 64,Somewhat,Not too
+1238,35 - 64,Somewhat,Not at all 
+1239,35 - 64,Not Very,Somewhat
+1240,35 - 64,Somewhat,Somewhat
+1241,35 - 64,Somewhat,Somewhat
+1242,35 - 64,Somewhat,Somewhat
+1243,35 - 64,Not Very,Somewhat
+1244,35 - 64,Very,Somewhat
+1245,35 - 64,Very,Not at all 
+1246,35 - 64,Very,Somewhat
+1247,35 - 64,Very,Very
+1248,35 - 64,Somewhat,Somewhat
+1249,35 - 64,Somewhat,Somewhat
+1250,35 - 64,Not Very,Not too
+1251,35 - 64,Somewhat,Somewhat
+1252,35 - 64,Somewhat,Not too
+1253,35 - 64,Very,Not at all 
+1254,35 - 64,Somewhat,Somewhat
+1255,35 - 64,Somewhat,Somewhat
+1256,35 - 64,Somewhat,Somewhat
+1257,35 - 64,Very,Not at all 
+1258,35 - 64,Very,Somewhat
+1259,35 - 64,Somewhat,Somewhat
+1260,35 - 64,Very,Not too
+1261,35 - 64,Very,Not too
+1262,35 - 64,Very,Not too
+1263,35 - 64,Somewhat,Very
+1264,35 - 64,Somewhat,Not too
+1265,35 - 64,Somewhat,Not too
+1266,35 - 64,Not Very,Somewhat
+1267,35 - 64,Very,Very
+1268,65 and up,Somewhat,Not too
+1269,35 - 64,Somewhat,Not too
+1270,35 - 64,Somewhat,Not too
+1271,35 - 64,Very,Not at all 
+1272,35 - 64,Somewhat,Not too
+1273,35 - 64,Somewhat,Not too
+1274,35 - 64,Not Very,Somewhat
+1275,35 - 64,Somewhat,Very
+1276,35 - 64,Very,Not too
+1277,35 - 64,Very,Not at all 
+1278,35 - 64,Very,Very
+1279,18 - 34,Somewhat,Somewhat
+1280,18 - 34,Somewhat,Somewhat
+1281,35 - 64,Somewhat,Somewhat
+1282,18 - 34,Somewhat,Somewhat
+1283,35 - 64,Somewhat,Somewhat
+1284,18 - 34,Very,Very
+1285,35 - 64,Very,Very
+1286,18 - 34,Very,Very
+1287,65 and up,Somewhat,Somewhat
+1288,35 - 64,Somewhat,Somewhat
+1289,35 - 64,No answer,No answer
+1290,35 - 64,Very,Somewhat
+1291,18 - 34,Somewhat,Somewhat
+1292,35 - 64,Very,Somewhat
+1293,35 - 64,Very,Somewhat
+1294,35 - 64,Somewhat,Somewhat
+1295,35 - 64,Very,Somewhat
+1296,18 - 34,Somewhat,Somewhat
+1297,35 - 64,Somewhat,Not too
+1298,35 - 64,Not Very,Somewhat
+1299,35 - 64,Very,Very
+1300,35 - 64,Very,Not too
+1301,35 - 64,Very,Very
+1302,35 - 64,Somewhat,Not too
+1303,35 - 64,Very,Very
+1304,65 and up,Not Very,Very
+1305,35 - 64,Very,Somewhat
+1306,35 - 64,Very,Very
+1307,35 - 64,Somewhat,Somewhat
+1308,35 - 64,Somewhat,Not too
+1309,35 - 64,Very,Somewhat
+1310,35 - 64,Somewhat,Somewhat
+1311,35 - 64,Very,Somewhat
+1312,35 - 64,Somewhat,Somewhat
+1313,35 - 64,Very,Very
+1314,35 - 64,Very,Somewhat
+1315,35 - 64,Very,Very
+1316,18 - 34,Not Very,Somewhat
+1317,18 - 34,Somewhat,Not too
+1318,35 - 64,Very,Very
+1319,35 - 64,Somewhat,Not too
+1320,35 - 64,Somewhat,Somewhat
+1321,35 - 64,Very,Not at all 
+1322,35 - 64,Very,Not too
+1323,35 - 64,Very,Not too
+1324,65 and up,Very,Not at all 
+1325,35 - 64,Somewhat,Not too
+1326,35 - 64,Not at all,Not too
+1327,35 - 64,Somewhat,Not too
+1328,35 - 64,Somewhat,Somewhat
+1329,35 - 64,Very,Not at all 
+1330,35 - 64,Very,Very
+1331,35 - 64,Somewhat,Not too
+1332,18 - 34,Very,Not too
+1333,35 - 64,Somewhat,Not too
+1334,35 - 64,Somewhat,Very
+1335,35 - 64,Very,Somewhat
+1336,35 - 64,Very,Not too
+1337,35 - 64,Very,Somewhat
+1338,35 - 64,Somewhat,Not too
+1339,35 - 64,Very,Somewhat
+1340,35 - 64,Somewhat,Somewhat
+1341,18 - 34,Somewhat,Not too
+1342,35 - 64,Very,Somewhat
+1343,35 - 64,Somewhat,Not too
+1344,35 - 64,Somewhat,Somewhat
+1345,65 and up,Very,Somewhat
+1346,35 - 64,Somewhat,Not too
+1347,35 - 64,No answer,No answer
+1348,35 - 64,No answer,No answer
+1349,35 - 64,Somewhat,Very
+1350,65 and up,Very,Somewhat
+1351,35 - 64,Very,Not at all 
+1352,35 - 64,Somewhat,Somewhat
+1353,35 - 64,Somewhat,Not too
+1354,18 - 34,Somewhat,Not too
+1355,18 - 34,Very,Somewhat
+1356,35 - 64,Somewhat,Not too
+1357,35 - 64,Somewhat,Somewhat
+1358,35 - 64,Somewhat,Not at all 
+1359,35 - 64,Somewhat,Not at all 
+1360,35 - 64,Somewhat,Somewhat
+1361,35 - 64,Very,Somewhat
+1362,35 - 64,Very,Not at all 
+1363,35 - 64,Very,Somewhat
+1364,18 - 34,Not at all,Not at all 
+1365,35 - 64,Very,Not at all 
+1366,18 - 34,Somewhat,Somewhat
+1367,18 - 34,Somewhat,Somewhat
+1368,35 - 64,Very,Not at all 
+1369,35 - 64,Somewhat,Not too
+1370,18 - 34,Very,Not too
+1371,18 - 34,Not Very,Not at all 
+1372,35 - 64,Very,Not too
+1373,35 - 64,Very,Somewhat
+1374,35 - 64,Very,Not too
+1375,35 - 64,Not at all,Not at all 
+1376,35 - 64,Somewhat,Not too
+1377,35 - 64,Somewhat,Not too
+1378,35 - 64,Very,Not at all 
+1379,35 - 64,Very,Somewhat
+1380,65 and up,Somewhat,Not at all 
+1381,18 - 34,Somewhat,Not too
+1382,18 - 34,Somewhat,Not at all 
+1383,35 - 64,Very,Not too
+1384,35 - 64,Somewhat,Not too
+1385,35 - 64,Not at all,Not too
+1386,35 - 64,Very,Somewhat
+1387,35 - 64,Very,Somewhat
+1388,65 and up,Very,Very
+1389,35 - 64,Very,Very
+1390,35 - 64,Very,Not at all 
+1391,35 - 64,Very,Not too
+1392,35 - 64,Somewhat,Somewhat
+1393,35 - 64,Somewhat,Not too
+1394,35 - 64,Somewhat,Somewhat
+1395,18 - 34,Very,Not too
+1396,65 and up,Very,Not too
+1397,35 - 64,Very,Very
+1398,35 - 64,Somewhat,Somewhat
+1399,35 - 64,Not Very,Not at all 
+1400,35 - 64,Somewhat,Somewhat
+1401,35 - 64,Somewhat,Somewhat
+1402,35 - 64,Very,Very
+1403,35 - 64,Very,Somewhat
+1404,18 - 34,Somewhat,Not too
+1405,35 - 64,Very,Somewhat
+1406,35 - 64,Very,Somewhat
+1407,35 - 64,Very,Not at all 
+1408,35 - 64,Somewhat,Not too
+1409,35 - 64,Very,Somewhat
+1410,65 and up,Not at all,Not at all 
+1411,35 - 64,Somewhat,Not too
+1412,35 - 64,Somewhat,Somewhat
+1413,35 - 64,Somewhat,Somewhat
+1414,65 and up,Very,Somewhat
+1415,65 and up,Somewhat,Somewhat
+1416,35 - 64,Very,Very
+1417,35 - 64,Somewhat,Somewhat
+1418,65 and up,Somewhat,Not at all 
+1419,35 - 64,Somewhat,Not too
+1420,35 - 64,Very,Not too
+1421,35 - 64,Somewhat,Not too
+1422,35 - 64,Somewhat,Somewhat
+1423,18 - 34,Somewhat,Not too
+1424,35 - 64,Somewhat,Somewhat
+1425,65 and up,Somewhat,Not at all 
+1426,18 - 34,Somewhat,Not too
+1427,35 - 64,Somewhat,Not too
+1428,35 - 64,Very,Not at all 
+1429,35 - 64,Very,Very
+1430,35 - 64,Very,Somewhat
+1431,65 and up,Somewhat,Somewhat
+1432,35 - 64,Very,Very
+1433,18 - 34,Very,Very
+1434,35 - 64,Very,Very
+1435,35 - 64,Not Very,Not too
+1436,35 - 64,Somewhat,Somewhat
+1437,35 - 64,Very,Very
+1438,35 - 64,Not Very,Not too
+1439,35 - 64,Somewhat,Somewhat
+1440,65 and up,Somewhat,Not too
+1441,35 - 64,Somewhat,Not too
+1442,35 - 64,Somewhat,Not too
+1443,35 - 64,Somewhat,Not too
+1444,35 - 64,Somewhat,Somewhat
+1445,18 - 34,Very,Not too
+1446,35 - 64,Somewhat,Not too
+1447,18 - 34,Not at all,Not at all 
+1448,35 - 64,Very,Not too
+1449,65 and up,Somewhat,Very
+1450,35 - 64,Very,Somewhat
+1451,65 and up,Somewhat,Somewhat
+1452,35 - 64,Somewhat,Somewhat
+1453,35 - 64,Very,Not too
+1454,35 - 64,Somewhat,Not too
+1455,18 - 34,Very,Somewhat
+1456,35 - 64,Somewhat,Somewhat
+1457,18 - 34,Very,Very
+1458,35 - 64,Not Very,Somewhat
+1459,35 - 64,Not Very,Not too
+1460,35 - 64,Somewhat,Not too
+1461,35 - 64,Very,Not at all 
+1462,18 - 34,Not Very,Somewhat
+1463,18 - 34,Very,Not too
+1464,18 - 34,Somewhat,Not at all 
+1465,35 - 64,Very,Not too
+1466,35 - 64,Very,Somewhat
+1467,18 - 34,Somewhat,Not too
+1468,35 - 64,Very,Very
+1469,35 - 64,Not Very,Not too
+1470,35 - 64,Somewhat,Somewhat
+1471,35 - 64,Somewhat,Not too
+1472,35 - 64,Very,Very
+1473,65 and up,Very,Not too
+1474,65 and up,Very,Somewhat
+1475,35 - 64,Somewhat,Somewhat
+1476,35 - 64,Somewhat,Somewhat
+1477,35 - 64,Very,Very
+1478,18 - 34,Very,Somewhat
+1479,35 - 64,Somewhat,Somewhat
+1480,35 - 64,Somewhat,Somewhat
+1481,35 - 64,Somewhat,Not too
+1482,65 and up,Not at all,Not at all 
+1483,35 - 64,Somewhat,Not too
+1484,35 - 64,Somewhat,Very
+1485,35 - 64,Not Very,Not at all 
+1486,35 - 64,Very,Not too
+1487,18 - 34,Somewhat,Not at all 
+1488,18 - 34,Very,Very
+1489,35 - 64,Somewhat,Not too
+1490,35 - 64,Somewhat,Somewhat
+1491,35 - 64,Somewhat,Somewhat
+1492,35 - 64,Somewhat,Somewhat
+1493,18 - 34,Not Very,Somewhat
+1494,35 - 64,Very,Not too
+1495,35 - 64,Very,Not too
+1496,35 - 64,Somewhat,Not at all 
+1497,18 - 34,Not Very,Not at all 
+1498,35 - 64,Somewhat,Somewhat
+1499,35 - 64,Very,Not too
+1500,65 and up,Not Very,Not too
+1501,35 - 64,Somewhat,Somewhat
+1502,35 - 64,Somewhat,Somewhat
+1503,35 - 64,Somewhat,Not too
+1504,35 - 64,Very,Not too
+1505,35 - 64,Somewhat,Not at all 
+1506,35 - 64,Somewhat,Somewhat
+1507,35 - 64,Somewhat,Not too
+1508,35 - 64,Not Very,Not too
+1509,65 and up,Not at all,Not at all 
+1510,65 and up,Very,Very
+1511,65 and up,Not Very,Not too
+1512,65 and up,Somewhat,Very
+1513,35 - 64,Somewhat,Somewhat
+1514,35 - 64,Very,Very
+1515,18 - 34,Somewhat,Somewhat
+1516,35 - 64,Somewhat,Not too
+1517,18 - 34,Very,Somewhat
+1518,35 - 64,Very,Somewhat
+1519,65 and up,Somewhat,Somewhat
+1520,35 - 64,Very,Very
+1521,35 - 64,Somewhat,Very
+1522,35 - 64,Very,Very
+1523,65 and up,Very,Not too
+1524,35 - 64,Somewhat,Not too
+1525,65 and up,Somewhat,Somewhat
+1526,65 and up,Not Very,Not too
+1527,65 and up,Somewhat,Somewhat
+1528,35 - 64,Very,Not too
+1529,18 - 34,Very,Very
+1530,35 - 64,Very,Not too
+1531,35 - 64,Somewhat,Not at all 
+1532,65 and up,Very,Not too
+1533,65 and up,Very,Somewhat
+1534,35 - 64,Somewhat,Not too
+1535,35 - 64,Not Very,No answer
+1536,35 - 64,Somewhat,Not too
+1537,18 - 34,Somewhat,Not too
+1538,35 - 64,Somewhat,Somewhat
+1539,65 and up,Very,Very
+1540,35 - 64,Somewhat,Not too
+1541,35 - 64,Somewhat,Not too
+1542,35 - 64,Somewhat,Not too
+1543,18 - 34,Somewhat,Not at all 
+1544,65 and up,Very,Not too
+1545,35 - 64,Somewhat,Not too
+1546,65 and up,Somewhat,Somewhat
+1547,65 and up,Somewhat,Not too
+1548,35 - 64,Somewhat,Not too
+1549,65 and up,Somewhat,Somewhat
+1550,35 - 64,Somewhat,Somewhat
+1551,35 - 64,Very,Somewhat
+1552,65 and up,Very,Somewhat
+1553,65 and up,Somewhat,Not too
+1554,35 - 64,Very,Somewhat
+1555,35 - 64,Somewhat,Very
+1556,35 - 64,Somewhat,Not too
+1557,18 - 34,Somewhat,Not too
+1558,35 - 64,Very,Somewhat
+1559,35 - 64,Somewhat,Not too
+1560,18 - 34,Somewhat,Somewhat
+1561,35 - 64,Somewhat,Not too
+1562,35 - 64,Somewhat,Somewhat
+1563,35 - 64,Somewhat,Not at all 
+1564,35 - 64,Somewhat,Not too
+1565,18 - 34,Somewhat,Not at all 
+1566,18 - 34,Not Very,Not too
+1567,35 - 64,Somewhat,Somewhat
+1568,18 - 34,Somewhat,Not too
+1569,18 - 34,Very,Somewhat
+1570,35 - 64,Somewhat,Somewhat
+1571,35 - 64,Somewhat,Not too
+1572,18 - 34,Not at all,Somewhat
+1573,35 - 64,Very,Somewhat
+1574,35 - 64,Somewhat,Somewhat
+1575,35 - 64,Very,Not at all 
+1576,35 - 64,Very,Very
+1577,35 - 64,Very,Somewhat
+1578,35 - 64,Somewhat,Not too
+1579,35 - 64,Not Very,Very
+1580,35 - 64,Somewhat,Somewhat
+1581,35 - 64,Not Very,Not too
+1582,35 - 64,Very,Somewhat
+1583,35 - 64,Very,Not too
+1584,35 - 64,Very,Not at all 
+1585,18 - 34,Not at all,Not at all 
+1586,18 - 34,Not Very,Not too
+1587,35 - 64,Very,Not at all 
+1588,35 - 64,Somewhat,Somewhat
+1589,35 - 64,Somewhat,Somewhat
+1590,35 - 64,Very,Not at all 
+1591,35 - 64,Not Very,Not too
+1592,18 - 34,Very,Very
+1593,35 - 64,Somewhat,Somewhat
+1594,18 - 34,Very,Very
+1595,35 - 64,Somewhat,Not too
+1596,18 - 34,Somewhat,Somewhat
+1597,18 - 34,Somewhat,Somewhat
+1598,18 - 34,Somewhat,Not too
+1599,35 - 64,Very,Somewhat
+1600,35 - 64,Somewhat,Somewhat
+1601,35 - 64,Somewhat,Not too
+1602,35 - 64,Very,Very
+1603,18 - 34,Somewhat,Somewhat
+1604,35 - 64,Very,Not too
+1605,35 - 64,Somewhat,Somewhat
+1606,18 - 34,Very,Very
+1607,18 - 34,Very,Not at all 
+1608,65 and up,Very,Somewhat
+1609,35 - 64,Not Very,Not too
+1610,35 - 64,Very,Not at all 
+1611,18 - 34,Not Very,Not at all 
+1612,35 - 64,Very,Very
+1613,35 - 64,Somewhat,Somewhat
+1614,18 - 34,Somewhat,Somewhat
+1615,18 - 34,Very,Not at all 
