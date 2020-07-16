@@ -1,3 +1,5 @@
+import pandas as pd
+
 def convert_units(heroes, heights, weights):
     new_hts = [ht * 0.39370 for ht in heights]
     new_wts = [wt * 2.20462 for wt in weights]
@@ -6,3 +8,7 @@ def convert_units(heroes, heights, weights):
         hero_data[hero] = (new_hts[i], new_wts[i])
     return hero_data
 
+def get_pokemon_names():
+    pokemon = pd.read_csv('pokemon.csv')
+    pokemon_names = list(pokemon['pokemon'])
+    return pokemon_names
