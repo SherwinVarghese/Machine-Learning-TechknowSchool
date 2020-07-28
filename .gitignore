@@ -6,3 +6,7 @@ modules/2. Python Intro and Math Foundation/4. Linear Algebra/.ipynb_checkpoints
 modules/3. EDA and Visualization/1. EDA/.ipynb_checkpoints/*
 modules/2. Python Intro and Math Foundation/1. Introduction to Python/1. Introduction/.ipynb_checkpoints/1.3 Variables-checkpoint.ipynb
 modules/2. Python Intro and Math Foundation/1. Introduction to Python/2. Data Structures/.ipynb_checkpoints/2.5 Data Structures Strings-checkpoint.ipynb
+
+# System Files
+.DS_Store
+Thumbs.db
